@@ -4,4 +4,14 @@
 .Ruserdata
 _main.Rmd
 libs/
-index.html
+*.html
+*_files/
+
+# R log files
+.libpaths
+.sessioninfo
+.Rbuildignore
+packrat/lib*/
+.Renviron
+
+*.docx

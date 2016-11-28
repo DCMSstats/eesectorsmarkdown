@@ -1,3 +1,9 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
 # GVA {#gva}
 
 This chapter presents UK GVA estimates for each DCMS sector at a headline level. 
@@ -13,17 +19,31 @@ This compares to increases of 2.3 per cent and 17.4 per cent respectively for th
 
 [^1]: Data are in current prices (i.e. have not been adjusted for inflation).
 
-```{r GVA_table, warning=FALSE, message=FALSE, results='asis'}
+```{r GVA_table, results='markup', message=FALSE, echo=FALSE}
 
-library(EESectors)
-GVA_table(GVA, html = TRUE)
+gva <- GVA_by_sector_2016 %>% long_data
+format_table(gva, html=FALSE, fmt='%.1f') %>% kable
 
 ```
+
+```{r GVA_plot_1, fig.width=8}
+#GVA_plot_1(GVA_by_sector_2016)
+```
+
+```{r GVA_plot_2, fig.width=8}
+#GVA_plot_2(GVA_by_sector_2016)
+```
+
 
 The Cultural Sector had the greatest percentage increase between 2014 and 2015 (15.0%), whilst Sport had the greatest percentage increase since 2010 (44.4%), despite a small decrease between 2014 and 2015 (of 1.5%). 
 Creative Industries had the second greatest increase over the past five years (34.0%). 
 Figures 3.2 and 3.3 show the growth rate for DCMS sectors as a whole and for each DCMS sector.
 
-The Digital Sector alone made up half of the DCMS sectors’ GVA in 2015 (7.1% of UK GVA), whilst Creative Industries represented over a third (5.3% of UK GVA).
+```{r GVA_plot_3, fig.width=8}
+#GVA_plot_3(GVA_by_sector_2016)
+```
+
+
+The Digital Sector alone made up half of the DCMS sectors’ GVA in 2015 (`r 71/100`% of UK GVA), whilst Creative Industries represented over a third (5.3% of UK GVA).
 There is considerable overlap between the DCMS sectors for example 3.8 per cent of UK GVA is in both Creative Industries and the Digital Sector.
 The overlap between sectors is represented in Figure 3.4 below, and means that the individual sectors cannot be summed to get an estimate of the GVA for all DCMS sectors combined.

@@ -1,0 +1,23 @@
+language: r
+sudo: required
+cache: packages
+
+git:
+ depth: 3 
+
+r_packages:
+ - devtools
+ - checkpoint
+
+r_github_packages:
+ - MangoTheCat/visualTest
+ - UKGov-Data-Science/EESectors
+
+before_script:
+  - chmod +x ./_build.R
+  - chmod +x ./_deploy.sh
+
+script:
+  - Rscript ./_build.R
+  - ./_deploy.sh
+

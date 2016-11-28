@@ -14,6 +14,12 @@ This was a 13.7 per cent increase from 2013, and a 40.5 per cent increase since 
 Growth in service exports for DCMS sectors has been greater than in service exports by all UK industries: the value of services exported by all UK industries increased by 2.0 per cent
 between 2013 and 2014, and by 25.6 per cent compared to 2010.
 
+```{r exports_by_sectors_table, results='asis'}
+
+#exports_by_sector_table(exports_by_sector_2016)
+
+```
+
 The greatest contribution to UK and DCMS sector service exports was from the Digital Sector (14.5% of total UK service exports in 2014), followed by the Creative Industries (9.1% of total
 UK service exports in 2014).
 Gambling is the only sector which has not growth in service exports since 2010 (50.9% decrease since 2013 and an 11.9% decrease since 2010). 

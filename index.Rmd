@@ -1,15 +1,20 @@
 ---
 title: "Reproducible Analytical Pipelines Demo"
-author: "Matthew Upson"
 date: "28 November 2016"
-output: html_document
+output:
+  html_document: default
+  word_document: default
 ---
+
+## THIS IS A PROTOTYPE BASED ON AN EXISTING PUBLICATION IN THE PUBLIC DOMAIN
 
 # Department for X and Y {-}
 **Date**: August 2016  
 **Contact**: <someone@xandy.gov.uk>
 
 ```{r setup, echo=FALSE, include=FALSE, error=FALSE, echo=FALSE}
+
+# Note that this .Renviron should be run prior to compilation.
 
 knitr::opts_chunk$set(
   warning = FALSE, 
@@ -18,6 +23,15 @@ knitr::opts_chunk$set(
   cache = FALSE
   )
 
+
+library(dplyr)
+library(knitr)
+
+# May need to install this first:
+
+devtools::install_github('ukgovdatascience/eesectors')
+
+library(eesectors)
 ```
 
 ```{r introduction, child='01-introduction.Rmd'}
@@ -41,3 +55,9 @@ knitr::opts_chunk$set(
 ```{r annexA, child='07-annexA.Rmd'}
 ```
 
+```{r save_repro_log}
+
+write(.libPaths(), file = '.libpaths')
+capture.output(sessionInfo(), file = '.sessioninfo')
+
+```
