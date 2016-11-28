@@ -1,0 +1,43 @@
+---
+title: "Reproducible Analytical Pipelines Demo"
+author: "Matthew Upson"
+date: "28 November 2016"
+output: html_document
+---
+
+# Department for X and Y {-}
+**Date**: August 2016  
+**Contact**: <someone@xandy.gov.uk>
+
+```{r setup, echo=FALSE, include=FALSE, error=FALSE, echo=FALSE}
+
+knitr::opts_chunk$set(
+  warning = FALSE, 
+  message = FALSE,
+  echo = FALSE,
+  cache = FALSE
+  )
+
+```
+
+```{r introduction, child='01-introduction.Rmd'}
+```
+
+```{r key_findings, child='02-key-findings.Rmd'}
+```
+
+```{r GVA, child='03-GVA.Rmd'}
+```
+
+```{r exports-imports, child='04-exports-imports.Rmd'}
+```
+
+```{r enterprises, child='05-enterprises.Rmd'}
+```
+
+```{r summary, child='06-summary.Rmd'}
+```
+
+```{r annexA, child='07-annexA.Rmd'}
+```
+

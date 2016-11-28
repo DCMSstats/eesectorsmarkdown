@@ -1,0 +1,62 @@
+
+# Introduction {#intro}
+
+**Released:** 4 August 2016
+
+**Geographic Coverage:** United Kingdom
+
+## Background
+This release provides an estimate of the contribution of DCMS sectors to the UK economy, measured by gross value added (GVA) (2010 - 2015), exports of services (2010 - 2014), imports of services (2013 - 2014) and number of enterprises (2008 - 2014). The DCMS sectors cover:
+
+* Creative Industries
+* Cultural Sector
+* Digital Sector
+* Gambling
+* Sport
+* Telecoms
+* Tourism
+
+A definition for each sector is available in the associated methodology note, along with details of methods and data limitations. There is significant overlap between DCMS sectors so users should be aware that the estimate for “all DCMS sectors” is lower than the sum of the individual sectors.
+
+This release supersedes the publication in September 2015 where an estimate for DCMS
+sectors was produced. It is the first time it has been possible to look at the changes over time for all DCMS sectors in a consistent way, and the first official estimates across sectors for the range of additional measures presented in this report.
+
+DCMS is grateful to the Office for National Statistics for all their support with this work.
+
+## Limitations
+
+The estimates set out in this report differ from those previously published by DCMS for a number of sector.
+
+## Office for Civil Society
+Responsibility for the Office for Civil Society was transferred from Cabinet Office to DMCS on 21 July 2016.
+The Office for Civil Society leads cross-government work in support of the voluntary, community and social enterprise sector (VCSE).
+The estimates included in this report do not currently attempt to measure the value of this sector (though some elements will be included through the sectors which are covered e.g. Sport and Culture).
+
+## Creative Industries
+Estimates in this report are experimental, but it is intended this approach will replace the previous methodology, subject to user feedback. 
+There is no difference between the two sources for data on exports and number of enterprises.
+
+## Sport
+For the purposes of this publication the statistical definition of sport has been used, this incorporates only those 4-digit SIC codes which are predominately sport (see methodology note Table [2.1]()). 
+DCMS also publishes estimates of sport based on the EU Sectors agreed Vilnius definition.
+The Vilnius definition is a more comprehensive measure of sport which considers the contribution of sport across of range of industries, for example sport advertising, and sport related construction.
+The DCMS Sport Satellite Account, based on the EU agreed methodology, should continue to be used as the best headline measure of sport’s contribution to the UK economy.
+
+## Tourism
+Estimates for tourism used in this publication are based on a different methodology to all other sectors, as they are taken from the Tourism Satellite Account. 
+This is an internationally recommended methodology for measurement of the contribution of tourism to the economy.
+
+## 2015 GVA {#gva_2015}
+For 2015, the GVA data is taken from the output measure of GVA to allow consistency with the sector measures. 
+This is aligned to average GVA up to and including 2014 (last Supply Use balanced year) but then uses growth in the output measure as a proxy for GVA beyond that. 
+The 2015 figure therefore differs from National Account GVA at current basic prices (series named ABML).
+
+Estimates have been constructed from ONS Official Statistics which use international classifications, this is an important element of the methodology due to availability of data and to enable international comparability.
+However, as a result there are substantial limitations to the underlying classifications.
+As the balance and make-up of the economy changes the international classifications are less able to provide the detail for important elements of the UK economy related to DCMS sectors, and therefore best fit SIC codes have been used to produce these estimates.
+More details of limitations are available in the methodology note.
+
+## Feedback and consultation
+DCMS aims to continuously improve the quality of estimates and better meet user needs.
+DCMS welcomes feedback on this experimental release and will be publishing a request for user feedback on specific topics, including the definition of Culture, on 9 August.
+Feedback and responses should be sent to DCMS via email at <evidence@culture.gov.uk> by 14 October 2016.

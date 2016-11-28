@@ -1,0 +1,62 @@
+# Exports and Imports of Services  {#exports_and_imports}
+
+This section provides estimates of exports and imports of services from and to DCMS sectors. 
+Estimates are given in current prices (i.e. not adjusted for inflation) and are based on data from the International Trade in Services survey, except estimates for Tourism, which are
+based on the International Passenger Survey. 
+Further information on methodology is available in the [methodology note](). 
+Latest data available for exports and imports are for 2014.
+
+## Exports
+
+In 2014, DCMS sectors exported £37.7bn worth of services to the rest of the world: 17.2 per cent of total UK service exports. 
+This was a 13.7 per cent increase from 2013, and a 40.5 per cent increase since 2010.
+
+Growth in service exports for DCMS sectors has been greater than in service exports by all UK industries: the value of services exported by all UK industries increased by 2.0 per cent
+between 2013 and 2014, and by 25.6 per cent compared to 2010.
+
+The greatest contribution to UK and DCMS sector service exports was from the Digital Sector (14.5% of total UK service exports in 2014), followed by the Creative Industries (9.1% of total
+UK service exports in 2014).
+Gambling is the only sector which has not growth in service exports since 2010 (50.9% decrease since 2013 and an 11.9% decrease since 2010). 
+High variation in Gambling is expected because the number of enterprises in the sector and the value of exports is
+relatively small. 
+Some of the change may also be due to changes in regulations on where firms must be located in order to operate in the UK, which applied from late 2014.
+
+### Exports by continent and EU
+Data on service exports are available by continent for 2013 and 2014. 
+More than half of exports of services from DCMS sectors in 2014 went to Europe: 56.6 per cent (£21.3bn) (Table 4.2). 
+This compares to 50.9 per cent of total UK service exports in 2014. 
+Exports of services to the EU account for 42.3 per cent of exports of services from DCMS sectors in 2014: this compares to 38.6 per cent of total UK service exports (Table 4.3). 
+
+More data on exports of services for the Digital Sector and Creative Industries, presented by Standard Industrial Classification code, are available in an ad hoc statistic release published by DCMS in April 2016[^2].
+
+[^2]: https://www.gov.uk/government/statistical-data-sets/ad-hoc-statistical-analysis-201617-quarter-1
+
+## Exports by the Tourism sector
+Estimates of exports for Tourism are based on data from the International Passenger Survey.
+It is assumed that exports of tourism is equal to the spend by overseas residents during visits
+to the UK. These figures represent exports of services and exports of goods combined and
+therefore are not directly comparable with the exports of services figures presented in the rest of this chapter.
+
+In 2014, the UK Tourism sector exported £21.8bn to the world.
+This accounted for 4.3 per cent of total UK exports of goods and services (up from 3.8 per cent in 2010).
+The value of exports by the Tourism sector increased by 2.8 per cent between 2013 and 2014 and by 29.3 per cent compared to 2010: meanwhile, the value of total UK exports (goods and services) has decreased by 1.2 per cent since 2013 and by 15.2 per cent since 2010[^3].
+Visitors from countries in the European Union were responsible for 43.7 per cent of Tourism exports in 2014 (£9.6bn).
+
+[^3]: Estimates from Pink Book 2016
+
+## Imports
+In 2014, DCMS sectors imported £19.4bn worth of services from the rest of the world: 14.6 per cent of total UK imports of services. This was a 9.0 per cent increase from 2013.
+
+### Imports by continent and EU
+Data on imports of services are available by continent for 2014. More than half of imports of services to DCMS sectors in 2014 came from Europe: 62.9 per cent (£12.2bn) (Table 4.6).
+53.7 per cent of imports of services for DCMS sectors came from countries in the European Union (EU) in 2014: this compares to 47.8 per cent of total UK service imports (Table 4.7).
+
+### Imports by the Tourism sector
+Estimates of imports for the Tourism sector are based on data from the International Passenger Survey. 
+It is assumed that imports of tourism is equal to spend by UK residents travelling overseas. 
+These figures represent imports of services and goods combined and therefore are not directly comparable with the imports of services figures presented in the rest of this chapter.
+
+In 2014, the UK Tourism sector imported £35.5bn from the rest of the world. 
+This accounted for 6.5 per cent of total UK imports of goods and services.
+
+Visits to countries in the European Union were responsible for 55.6 per cent of Tourism imports in 2014 (£19.8bn).

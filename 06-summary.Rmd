@@ -1,0 +1,43 @@
+# Summary and Next Steps  {#summary_next_steps}
+
+This publication brings together a range of economic measures for DCMS sectors for the first time. 
+It is the first time it has been possible to compare the different sectors on a basis which is consistent with each other and the rest of the UK. 
+It also enables better consideration of
+changes over time.
+
+The results show the importance of DCMS sectors and in particular highlight the fact that the sectors which DCMS has policy responsibility for are growing at a faster rate than the rest of the economy. 
+Over the period 2010 to 2015, there has been particularly strong growth in the contribution which the Creative Industries and Sport have made to the economy (GVA). 
+Sport had the greatest percentage increase since 2010 (44.4%) and Creative Industries had the second greatest increase over the past five years (34.0%). 
+While growth in exports of services since 2010 has been particularly strong for Sport and Telecoms. 
+
+With the increasing importance of understanding the UK’s relationship with the rest of the EU it is valuable to see imports and exports of services broken down by EU and non-EU
+countries. 
+In 2014, 42.3 per cent of exports of services from DCMS sectors went to countries in the European Union (EU) compared with 38.6 per cent of total UK exports of services.
+
+Finally, the data on number of enterprises shows how the make-up of the DCMS sectors varies. 
+For example, in 2014 in the Creative Industries, nearly 90 per cent of enterprises had less than five employees while in the Gambling sector less than half (47.2%) of enterprises
+had less than five employees. 
+This additional understanding of the sectors should support
+decision makers in understanding the issues different sectors face and the impact of policy changes for each sector.
+
+While huge progress has been made in order to produce these estimates, DCMS will continue to take forward work to develop the outputs further:
+
+* **Employment** - In August 2016, DCMS will publish estimates of numbers of jobs for each DCMS sector as well as all DCMS sectors. This publication will include breakdowns for EU and non-EU nationals, employed/self-employed and region.
+* **Contribution of VCSE** – DCMS is looking to include the value of the sectors which the Office for Civil Society have responsibility for; volunteering, community and social
+enterprise (VCSE).
+* **Feedback** - Views on this publication are welcomed from users, in particular in response to the request for feedback which will be published on 9 August. *Responses should be provided to* <evidence@culture.gov.uk> by October 14 2016.
+These will feed into decisions on future publications of economic estimates for DCMS sectors (including Creative Industries Economic Estimates planned for publication in
+December 2016).
+* **Sport Satellite Account** - DCMS will publish an updated Sport Satellite Account by
+the end of 2016.
+* **Exports of goods** - the current publication includes exports of services only. Work is underway to produce estimates of exports of goods for DCMS sectors.
+* **Productivity** - understanding of productivity is of critical importance to understanding the economic impact of DCMS sectors. The improved methodology for GVA and jobs adopted in this report should support further development enabling DCMS to publish
+estimates of productivity for DCMS sectors in future.
+* **Deflators** – DCMS will work with ONS to produce estimates of deflators for DCMS sectors. This will allow estimates to be adjusted for inflation (constant prices/real terms estimates). This is also important in the measurement of productivity, to ensure any observed changes in productivity are real rather than a result of inflation.
+
+Feedback on this report and proposed developments is welcomed via email to <evidence@culture.gov.uk>.
+
+The next publication of DCMS Sectors Economic Estimates will be in Autumn 2017, once the latest balanced Supply Use Tables are available. 
+The date will be announced via the [DCMS statistical release calendar]() nearer the time.
+
+

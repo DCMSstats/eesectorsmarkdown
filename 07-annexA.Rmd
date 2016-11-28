@@ -1,0 +1,102 @@
+# Annexe A: Tourism Satellite Account {#annexA}
+
+## Introduction
+The UK Tourism Satellite Account (UK-TSA) provides economic information about the demand for goods and services associated with tourism, and their contribution to the UK economy.
+
+The TSA estimates gross value added (GVA) and the number of jobs for (direct) tourism.
+Alongside this, the TSA also includes the number of enterprises in the tourism industries.
+Tourism is not an industry defined in National Accounts, but rather defined by the characteristics of the consumer in terms of whether they are a tourist or resident. 
+This, therefore, differs from “traditional” industries such as manufacturing and agriculture which are defined by the goods and services produced themselves and means that a different methodology must be employed for estimates relating to tourism.
+
+The is produced by UK-TSA the Tourism Intelligence Unit (TIU) in the Office for National Statistics (ONS) on behalf of the Department for Culture, Media and Sport (DCMS).
+The latest data are published on the ONS website. The TIU were also responsible for previous UK-TSAs covering 2008 to 2013.
+The previous release (2013) is available here.
+
+The UK-TSA sets out the contributions that tourism makes to the economy of the UK as a whole and to individual “tourism industries” in particular.
+The “tourism industries” are a wider selection of Standard Industrial Classification and should not be used to measure the value of tourism to the UK economy. This is because such industries invariably serve tourists and
+non-tourists alike and therefore the UK-TSA includes a series of Tourism Ratios which are used to estimate the proportions of products supplied in the UK that are consumed by
+tourists.
+A more detailed methodology is available here.
+
+This annex summarises headline findings for the 2014 Tourism Satellite Account, covering:
+
+* Tourism Direct Gross Value Added (which includes a ‘nowcasted’ estimate of the 2015 TD-GVA),
+* Tourism expenditure in the UK
+* Tourism direct employment estimates
+
+Additional information is available in the accompanying tables, which are published on the ONS website.
+
+All estimates are in current prices, that is, they have not been adjusted for inflation.
+
+## Tourism Direct Gross Value Added
+
+Tourism Direct Gross Value Added (TDGVA) indicates the output of the UK tourism industries that is driven directly by tourism spend.
+In 2015 TDGVA was £62.4 billion[^7], and wasresponsible for 3.8 per cent of the UK economy.
+The value of TDGVA increased by 3.3 percent when compared to 2014 when it was £60.4 billion (see Figure A.1).
+
+[^7]:
+
+The main contributor to TDGVA was ‘other consumption products’ (£23.0bn and 36.9%) which refers to the proportion of output from non-tourism industries that is accounted for by
+tourism spend (see Table A.1).
+This includes activities such as non-food shopping or
+expenditure on personal transport and other activities not included within the tourism industries.
+The next highest category was ‘Accommodation services for visitors (£8.9bn, 14.2%) and ‘Food and beverage serving activities’ (£8.9bn, 14.2%).
+
+‘Water passenger transport services’ saw the largest percentage change between 2014 and 2015 (up 70.8 per cent from £0.4bn to £0.7bn), although this category is still one of the smallest contributors to TDGVA, making up just 1.1 per cent of the overall tourism direct GVA.
+
+## Tourism Demand in the United Kingdom 2014
+
+Tourism demand (or tourism expenditure) is made up of two types of tourism: inbound tourism and domestic tourism.
+Inbound tourism is where foreign passengers travel to the UK, for either an overnight stay or a same day visit.
+Domestic tourism is made up of four components: overnight stays; same day visits; costs associated with second-home ownership; and expenditure on outbound trips (before leaving the UK).
+
+Domestic tourism is broken down by excursions and overnight trips in both the report and the accompanying tables. 
+When domestic tourism is reported at this level it does not include outbound travel unless specifically stated. Latest data are for 2014.
+
+### Inbound tourism
+Inbound tourism expenditure (including both overnight and same day visitors) within the UK was estimated to be £25.5 billion in 2014, an increase of 2.2 per cent from 2013 when it was £24.9 billion. Overnight visitors were responsible for 97.7 per cent of all inbound tourism expenditure.
+
+The industry responsible for the largest proportion of inbound tourism expenditure in the UK was again ‘Other consumption products’ (£10.6bn, 42% of the total). 
+Following this were again Accommodation services for visitors (£5.6bn, 22.1%) and ‘Food and beverage serving activities’ (£3.8bn, 15.0%).
+
+## Domestic tourism
+Domestic tourism describes the activities of a UK resident visiting another part of the UK, and this can include tourism trips with an overnight stay and tourism visits without an overnight stay (a same day visit).
+Alongside this, there is also domestic tourism expenditure that takes place within the UK and is associated with UK residents making an overseas visit – this domestic outbound tourism often involves some expenditure on the UK territory before leaving the country.
+This can include spend at ports or expenditure on outbound flights on UK carriers and this is all accounted for within this release.
+
+Domestic tourism expenditure within the UK was £105.1 billion in 2014, a 0.2 per cent increase on 2013 when it was £104.9 billion.
+
+Again, ‘Other consumption products’ were responsible for the largest proportion of domestic tourism expenditure in 2014 (£33.4bn, 31.7%).
+
+‘Sport and recreation activities’ saw the largest increase between 2013 and 2014, increasing by 54.9 per cent to £4.9 billion. A number of industries saw a large decrease, ‘Exhibitions & conferences etc.’ decreased by 63.1 per cent (to £0.2bn) and ‘Water passenger transport services’ decreased by 48.2 per cent (to £0.7bn), however these industries were small to begin with and both contribute less than one percent of the overall total.
+
+Additional information on tourism expenditure can be found in the [accompanying tables]().
+
+## Tourism Direct Employment
+
+Tourism direct employment is defined as the number of jobs that is are directly supported by tourism consumption across the tourism industries.
+The 2015 figures have been estimated using previous data, and this has been outlined further on in this chapter.
+
+In 2014, there were 1.4 million people directly employed in tourism, a 10.7 per cent decrease on the previous year, when there were 1.6 million people directly employed in tourism.
+
+Again, ‘other consumption products’ were responsible for the largest proportion of employment (0.4 million, 29.3%), followed by ‘Food and beverage serving activities’ were responsible for the highest proportion of jobs (0.3 million, 24.4%) and ‘Accommodation services for visitors’ (0.3 million, 19.2%).
+
+Employment decreased in the vast majority of the tourism industries between 2013 and 2014, with the exceptions of ‘Sport and recreation activities’ (an increase of 67.5% to 0.1 million
+jobs), ‘Railway passenger transport services’ (which increased by 16.1% to 0.03 million jobs) and ‘Water passenger transport services’ (an increase of 4.1% to 2,000 jobs).
+
+As some of the industries are small there is a lot of volatility in estimates.
+
+### Tourism Direct Employment, 2015
+Tourism total employment is provided in the accompanying tables. 
+Tourism ratios are applied to these figures to produce a tourism direct employment figure by tourism characteristic
+activity category.
+The same tourism ratio is applied to the employed and self-employed split of the total employment data to provide an employed/self-employed tourism direct employment figure.
+Further information on the approach can be found in the methodology note.
+
+Based on these estimates, in 2015 there were 1.5 million people directly employed in tourism, a 3.1 per cent increase on the previous year.
+
+### Number of enterprises
+Figures on the number of enterprises in the ‘tourism industries’ (which differs from direct tourism’)[^8] are available in the accompanying tables.
+Additional analysis has been undertaken on these figures using the tourism ratios in order to obtain an approximate estimate of ‘tourism direct’ number of enterprises and is included in Chapter 5 of this report. 
+
+[^8]: 8 The ‘tourism industries’ are a broad category that can be used to define tourism, which ratios are applied to in order to obtain direct tourism estimates. 

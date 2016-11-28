@@ -1,0 +1,24 @@
+# Enterprises
+
+This section provides estimates of the number of enterprises for DCMS sectors. These data are from the Annual Business Survey (ABS) and are based on the ABS definition of enterprises[^4]. 
+For further context the percentage of those enterprises in each size band (small, medium, and large) is also presented. These are based on an extract from the [Inter Departmental Business Register (IDBR)]()[^5].
+Further information on methodology are available in the published [methodology note]().
+
+## Summary
+In 2014, DCMS sectors accounted for 15.8 per cent of all UK enterprises, approximately 331 thousand enterprises. 
+The number of enterprises in all DCMS sectors has increased by 4.1
+per cent between 2013 and 2014, and by 19.5 per cent since 2008. 
+
+Amongst the individual DCMS sectors, the Digital Sector had the largest growth in the number of enterprises, increasing by 5.7 per cent since 2013 and 2014, and telecoms had the largest growth since 2008 (36.1%).
+
+Between 2013 and 2014, Tourism, Gambling and Telecommunications sectors have had a reduction in the number of enterprises. 
+The Gambling sector had the largest decrease in the number of enterprises since 2008 (a fall of 29.1 per cent) and 2013 (a fall of 4.6 per cent). 
+
+Information on size of enterprise by employment band is also given for context[^6].
+It shows that there is significant variation across DCMS sectors, and that generally DCMS sectors have more smaller enterprises than the UK business population as a whole. 
+
+[^6]: Tourism is shown separately as it is produced on a different basis. 
+
+The data on number of enterprises by size band shows how the make-up of the DCMS sectors varies. 
+For example, in 2014 in the Creative Industries, nearly 90 per cent of enterprises had less than five employees while in the Gambling sector less than half (47.2%) of enterprises had less than five employees.
+
