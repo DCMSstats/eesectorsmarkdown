@@ -26,8 +26,8 @@ format_table(gva, html=FALSE, fmt='%.1f') %>% kable
 
 ```
 
-```{r GVA_plot_1, fig.width=8}
-#GVA_plot_1(GVA_by_sector_2016)
+```{r Figure3.1, fig.width=8}
+figure3.1(gva)
 ```
 
 ```{r GVA_plot_2, fig.width=8}
