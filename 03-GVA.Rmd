@@ -26,12 +26,12 @@ format_table(gva, html=FALSE, fmt='%.1f') %>% kable
 
 ```
 
-```{r Figure3.1, fig.width=8}
+```{r figure3.1, fig.width=8}
 figure3.1(gva)
 ```
 
-```{r GVA_plot_2, fig.width=8}
-#GVA_plot_2(GVA_by_sector_2016)
+```{r figure3.2, fig.width=8}
+figure3.2(gva)
 ```
 
 
@@ -39,8 +39,8 @@ The Cultural Sector had the greatest percentage increase between 2014 and 2015 (
 Creative Industries had the second greatest increase over the past five years (34.0%). 
 Figures 3.2 and 3.3 show the growth rate for DCMS sectors as a whole and for each DCMS sector.
 
-```{r GVA_plot_3, fig.width=8}
-#GVA_plot_3(GVA_by_sector_2016)
+```{r figure3.3, fig.width=8}
+figure3.3(gva)
 ```
 
 
