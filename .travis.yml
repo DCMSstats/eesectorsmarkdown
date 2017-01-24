@@ -8,6 +8,7 @@ git:
 r_packages:
  - devtools
  - checkpoint
+ - rmarkdown
 
 r_github_packages:
  - MangoTheCat/visualTest
