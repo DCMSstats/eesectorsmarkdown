@@ -8,10 +8,14 @@ git:
 r_packages:
  - devtools
  - checkpoint
+ - rmarkdown
 
 r_github_packages:
  - MangoTheCat/visualTest
  - ukgovdatascience/eesectors
+
+install:
+  - R -e "0" --args --bootstrap-packrat
 
 before_script:
   - chmod +x ./_build.R
