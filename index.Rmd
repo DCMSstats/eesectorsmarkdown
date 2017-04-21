@@ -1,9 +1,9 @@
 ---
 title: "Reproducible Analytical Pipelines Demo"
-date: "28 November 2016"
 output:
-  html_document: default
   word_document: default
+  html_document: default
+date: "28 November 2016"
 ---
 
 ## THIS IS A PROTOTYPE BASED ON AN EXISTING PUBLICATION IN THE PUBLIC DOMAIN
