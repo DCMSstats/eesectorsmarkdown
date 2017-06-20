@@ -2,6 +2,12 @@ language: r
 sudo: required
 cache: packages
 
+cache:
+  directories:
+    - $TRAVIS_BUILD_DIR/packrat/src
+    - $TRAVIS_BUILD_DIR/packrat/lib
+  packages: true
+
 git:
  depth: 3 
 
@@ -24,4 +30,3 @@ before_script:
 script:
   - Rscript ./_build.R
   - ./_deploy.sh
-
