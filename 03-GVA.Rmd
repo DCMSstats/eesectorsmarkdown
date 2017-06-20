@@ -21,8 +21,8 @@ This compares to increases of 2.3 per cent and 17.4 per cent respectively for th
 
 ```{r GVA_table, results='markup', message=FALSE, echo=FALSE}
 
-gva <- GVA_by_sector_2016 %>% long_data
-format_table(gva, html=FALSE, fmt='%.1f') %>% kable
+gva <- GVA_by_sector_2016 %>% year_sector_data
+year_sector_table(gva, html=FALSE, fmt='%.1f') %>% kable
 
 ```
 
