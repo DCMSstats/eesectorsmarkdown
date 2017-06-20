@@ -6,11 +6,14 @@ output:
   word_document: default
 ---
 
-## THIS IS A PROTOTYPE BASED ON AN EXISTING PUBLICATION IN THE PUBLIC DOMAIN
 
-# Department for X and Y {-}
+
+# Government Digital Service:
+## Better Use of Data Team
 **Date**: August 2016  
-**Contact**: <someone@xandy.gov.uk>
+**Contact**: gdsdatascience@digital.cabinet-office.gov.uk
+
+
 
 ```{r setup, echo=FALSE, include=FALSE, error=FALSE, echo=FALSE}
 
