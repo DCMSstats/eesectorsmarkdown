@@ -2,6 +2,9 @@
 
 set -e
 
+git config --global user.email ${EMAIL}
+git config --global user.name ${USERNAME}
+
 [ -z "${GITHUB_PAT}" ] && exit 0
 [ "${TRAVIS_BRANCH}" != "master" ] && exit 0
 
